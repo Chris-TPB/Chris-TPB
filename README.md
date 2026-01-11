@@ -1,6 +1,6 @@
 <!-- 个人 Banner（超炫光效） -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=250&section=header&text=TPB003&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=250&section=header&text=Chris-TPB&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 </p>
 
 <!-- 动态字幕 -->
